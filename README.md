@@ -1,5 +1,5 @@
 ## 🚀 Sobre mim
-Me chamo Matheus Gabriel e sou um desenvolvedor fullstack aberto a propostas no mercado de trabalho
+Me chamo Matheus Gabriel e sou um desenvolvedor fullstack freelancer aberto a propostas no mercado de trabalho
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-gabriel-r)
